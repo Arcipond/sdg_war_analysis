@@ -20,6 +20,9 @@
 
     그러나 Wheat가 전세계 빈곤/식량과 밀접하게 연관되어있기에 Wheat를 중점적으로 살펴볼 것이다.
 
+    https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present
+    LA 범죄 집계
+
 ### 사용 라이브러리
 
 - Pandas
